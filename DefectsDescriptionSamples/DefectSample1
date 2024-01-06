@@ -1,0 +1,16 @@
+Defect id: D001
+Type: Enter Amount window not opening 
+Name: Paytm Payment defect on scan pay option 
+Source of Defect: TC003
+Defect Severity: High
+Defect Priority: High
+Defect Status: Open
+Description: 
+    steps: 1) Open Paytm app on device
+           2) Login with valid login credentials
+           3) Click on scan and Pay option
+           4) scan the QR code
+           5) Click on pay button
+Stage of Origination: When clicked on pay button Enter the amount window is not opening.
+
+
